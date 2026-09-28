@@ -103,7 +103,7 @@ node -e "console.log(require('crypto').randomBytes(64).toString('hex'))"
 Requirements: Node.js 20+ and a MongoDB database (local, or a free MongoDB Atlas cluster).
 
 ```bash
-git clone <ADD_GITHUB_URL>
+git clone https://github.com/Abhay-04/ecomm-sheryians
 cd ecomm-sheryians
 
 cd backend
@@ -230,8 +230,8 @@ Full step-by-step instructions: **[DEPLOY.md](DEPLOY.md)**
 
 ## GitHub Repository
 
-<ADD_GITHUB_URL>
+https://github.com/Abhay-04/ecomm-sheryians
 
 ## Live Project
 
-<ADD_LIVE_URL>
+https://ecomm-sheryians-frontend.vercel.app/
